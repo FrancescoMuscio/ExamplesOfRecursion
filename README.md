@@ -4,3 +4,4 @@ Gli esempi comprendono problemi su:
 - array
 - stringhe
 - BST
+- RBT
